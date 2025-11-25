@@ -8,5 +8,5 @@
 
   <br/><br/>
   
-  <sub>Cloud enthusiast | Always learning new things ☁️</sub>
+  <sub><i>Cloud enthusiast | Always learning new things ☁️</i></sub>
 </div>
