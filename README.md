@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=3000&pause=2000&color=85F791&center=true&width=750&vCenter=true&lines=Welcome+to+my+journey!!+%F0%9F%A4%97" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=85F791&center=true&width=750&vCenter=true&lines=Welcome+to+my+journey!!+%F0%9F%A4%97" />
   
   <br/>
     
@@ -8,5 +8,5 @@
 
   <br/><br/>
   
-  <sub><i>Cloud enthusiast | Always learning new things ☁️</i></sub>
+  <sub>Cloud enthusiast | Always learning new things ☁️</sub>
 </div>
