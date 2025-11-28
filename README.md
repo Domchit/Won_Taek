@@ -16,7 +16,6 @@
 
 ---
 
-<br/>
 
 ### 🛠 Tech Stack
 - ☁️ **Cloud:** AWS (Deployment & Monitoring), GCP (Compute Engine), Docker, Kubernetes, Terraform
@@ -24,7 +23,6 @@
 - 🗄 **Database:** MySQL
 - 💻 **OS:** Ubuntu, Rocky Linux, Linux, Windows Server
 
-<br/>
 
 ### 🏆 Certifications
 - **AWS Data Engineer - Associate (DEA-C01)**
@@ -32,18 +30,12 @@
 - **리눅스마스터 2급**
 - **ITQ 마스터(한글, 인터넷, 엑셀)**
 
-<br/>
 
 ### 🎓 Education
 - 대우능력개발원 - 클라우드 기반 정보시스템 구축 전문가 양성
   - 2025년 4월 ~ 2025년 12월
 
-<br/>
-
-
 ---
-
-<br/>
 
 ### 💻 Cloud Projects
 ### [클라우드 서버 이중화 및 하이브리드 클라우드 구축] 
@@ -73,8 +65,6 @@
 - ⚡ 사용 기술:
 - 💡 설명:
 - 🎯 개인 프로젝트 주요 기여 
-
-<br/>
 
 ---
 
