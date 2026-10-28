@@ -16,6 +16,16 @@
 
 ---
 
+### 👋 About Me
+
+안녕하세요! 클라우드 엔지니어를 목표로 성장하고 있는 임원택입니다.
+
+- ☁️ AWS 기반 클라우드 인프라와 네트워크 구성에 관심이 있습니다.
+
+- 🛠️ 클라우드 환경 구축 및 자동화 기술을 학습하고 있습니다.
+
+- 📚 프로젝트를 통해 기술을 직접 적용하고, 학습 과정과 문제 해결 경험을 기록합니다.
+
 
 ### 🛠 Tech Stack
 - ☁️ **Cloud:** AWS (Deployment & Monitoring), GCP (Compute Engine), Docker, Kubernetes, Terraform
