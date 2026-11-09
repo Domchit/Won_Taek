@@ -28,19 +28,11 @@
 
 
 ### 🛠 Tech Stack
--☁️ **Cloud**: AWS, GCP (Compute Engine)
+<div align="center">
 
--⚙️ **Infrastructure as Code**: Terraform
+  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,linux,ubuntu,mysql,git,vscode" />
 
--🐳 **Container**: Docker
-
--☸️ **Orchestration**: Kubernetes, Amazon EKS
-
--🖥️ **Virtualization**: VMware, vSphere
-
--💻 **Operating System**: Linux, Ubuntu, Rocky Linux, Windows Server
-
--🗄️ **Database**: MySQL
+</div>
 
 -🔧**Tools**: Git, VSCode
 
