@@ -28,12 +28,28 @@
 
 
 ### 🛠 Tech Stack
-<div align="center">
 
-  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,kubernetes,linux,ubuntu,mysql,git,vscode" />
+☁️**Cloud & Infrastructure**
 
-</div>
+<img src="https://skillicons.dev/icons?i=aws,gcp,terraform" />
 
+🐳 **Container & Orchestration**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+
+💻 **OS & Database**
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,mysql" />
+
+🔧 **Development Tools**
+
+<img src="https://skillicons.dev/icons?i=git,vscode" />
+
+**Other Experience**
+
+VMware / vSphere
+
+Rocky Linux
 ### 🏆 Certifications
 - **AWS Data Engineer - Associate (DEA-C01)**
 - **네트워크관리사 2급**
