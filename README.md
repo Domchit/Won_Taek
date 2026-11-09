@@ -47,9 +47,9 @@
 
 **Other Experience**
 
-VMware / vSphere
+- VMware / vSphere
 
-Rocky Linux
+- Rocky Linux
 ### 🏆 Certifications
 - **AWS Data Engineer - Associate (DEA-C01)**
 - **네트워크관리사 2급**
