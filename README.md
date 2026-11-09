@@ -63,7 +63,7 @@
 
 ---
 
-### 💻 Cloud Projects
+### ☁️ Cloud Projects
 ### [클라우드 서버 이중화 및 하이브리드 클라우드 구축] 
 - 📄 문서: 
 - ⚡ 사용 기술: AWS (EC2, EKS, ALB, NLB, IAM), Docker, kubectl, eksctl 
