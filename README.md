@@ -34,9 +34,6 @@
 
 </div>
 
--🔧**Tools**: Git, VSCode
-
-
 ### 🏆 Certifications
 - **AWS Data Engineer - Associate (DEA-C01)**
 - **네트워크관리사 2급**
