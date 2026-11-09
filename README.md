@@ -28,21 +28,21 @@
 
 
 ### 🛠 Tech Stack
--☁️ Cloud: AWS, GCP (Compute Engine)
+-☁️ **Cloud**: AWS, GCP (Compute Engine)
 
--⚙️ Infrastructure as Code: Terraform
+-⚙️ **Infrastructure as Code**: Terraform
 
--🐳 Container: Docker
+-🐳 **Container**: Docker
 
--☸️ Orchestration: Kubernetes, Amazon EKS
+-☸️ **Orchestration**: Kubernetes, Amazon EKS
 
--🖥️ Virtualization: VMware, vSphere
+-🖥️ **Virtualization**: VMware, vSphere
 
--💻 Operating System: Linux, Ubuntu, Rocky Linux, Windows Server
+-💻 **Operating System**: Linux, Ubuntu, Rocky Linux, Windows Server
 
--🗄️ Database: MySQL
+-🗄️ **Database**: MySQL
 
--🔧Tools: Git, VSCode
+-🔧**Tools**: Git, VSCode
 
 
 ### 🏆 Certifications
