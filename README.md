@@ -73,7 +73,7 @@
   - 문제 해결 방안 도출
 
 ### [Terraform 프로젝트]
-- 📄 문서: 
+- 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/Terraform_Project.pdf)
 - ⚡ 사용 기술: Terraform
 - 💡 설명: Terraform의 정의부터 시작해서 작동 원리, 기본 개념, 구조를 파악
 - 🎯 팀 프로젝트 주요 기여 
@@ -81,13 +81,13 @@
   - AWS 리소스, 등 AWS 예시 파일 구조 파악 및 정리
 
 ### [AWS Web Service 프로젝트]
-- 📄 문서: 
+- 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/AWS-Web-Server_Project.pdf)
 - ⚡ 사용 기술: 
 - 💡 설명:  
 - 🎯 2인 프로젝트 주요 기여 
 
 ### [AWS VPC]
-- 📄 문서:
+- 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/AWS_VPC_Project.pdf)
 - ⚡ 사용 기술:
 - 💡 설명:
 - 🎯 개인 프로젝트 주요 기여 
