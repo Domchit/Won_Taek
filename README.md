@@ -65,7 +65,7 @@
 
 ### ☁️ Cloud Projects
 ### [클라우드 서버 이중화 및 하이브리드 클라우드 구축] 
-- 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/KDT%20클라우드%20서버%20이중화%20및%20하이브리드%20클라우드%20구축.pdf)
+- 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/KDT_Duplexing-Cloud-Project.pdf)
 - ⚡ 사용 기술: AWS (EC2, EKS, ALB, NLB, IAM), Docker, kubectl, eksctl 
 - 💡 설명: 
 - 🎯 팀 프로젝트 주요 기여 
