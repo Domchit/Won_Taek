@@ -66,15 +66,15 @@
 ### ☁️ Cloud Projects
 ### [클라우드 서버 이중화 및 하이브리드 클라우드 구축] 
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/KDT_Duplexing-Cloud-Project.pdf)
-- ⚡ 사용 기술: AWS (EC2, EKS, ALB, NLB, IAM), Docker, kubectl, eksctl 
-- 💡 설명: 
-- 🎯 팀 프로젝트 주요 기여 
+- ⚡ 사용 기술: AWS (EC2, EKS, ALB, NLB, IAM), Docker, kubectl, eksctl
+- 💡 설명: AWS EKS 기반 컨테이너 인프라를 구축하고 ALB/NLB 연동 및 Kubernetes 애플리케이션 배포를 통한 고가용성 환경 실습
+- 🎯 팀 프로젝트 주요 기여
   - AWS 인프라 구축 실습 진행 및 실습 과정 기록
   - 문제 해결 방안 도출
 
 ### [Terraform 프로젝트]
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/Terraform_Project.pdf)
-- ⚡ 사용 기술: Terraform
+- ⚡ 사용 기술: Terraform, HCL, AWS, AWS CLI, Terraform Cloud, GitHub, Route 53
 - 💡 설명: Terraform의 정의부터 시작해서 작동 원리, 기본 개념, 구조를 파악
 - 🎯 팀 프로젝트 주요 기여 
   - Terraform의 정의 및 기본 개념 정리
@@ -82,15 +82,22 @@
 
 ### [AWS Web Service 프로젝트]
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/AWS-Web-Server_Project.pdf)
-- ⚡ 사용 기술: 
-- 💡 설명:  
+- ⚡ 사용 기술: AWS (VPC, EC2, ALB, RDS, S3, CloudWatch, CloudFormation)
+- 💡 설명: AWS 환경에서 VPC 기반 네트워크와 웹 서비스 운영 인프라를 구성하고, 데이터베이스 및 스토리지, 모니터링 환경 구축 실습
 - 🎯 2인 프로젝트 주요 기여 
 
 ### [AWS VPC]
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/AWS_VPC_Project.pdf)
-- ⚡ 사용 기술:
-- 💡 설명:
-- 🎯 개인 프로젝트 주요 기여 
+- ⚡ 사용 기술: AWS (VPC, Subnet, IGW, NAT Gateway, Route Table, EC2)
+- 💡 설명: Public/Private Subnet을 분리한 네트워크 환경을 구성하고, Bastion Host를 통한 Private Subnet 접근 및 네트워크 통신 실습
+- 🎯 개인 프로젝트 주요 기여
+
+### [Windows Server / vSphere 프로젝트]
+- 📄 문서: [프로젝트 보기]
+- ⚡ 사용 기술: Windows Server, Active Directory, DNS, VMware ESXi, vCenter Server, vSphere HA, FT, DRS, iSCSI
+- 💡 설명: VMware vSphere 기반 서버 가상화 환경을 구축하고 Active Directory, 공유 스토리지 및 가상 머신 고가용성 구성 실습
+- 🎯 팀 프로젝트 주요 기여
+
 
 ---
 
