@@ -98,6 +98,26 @@
 - 💡 설명: VMware vSphere 기반 서버 가상화 환경을 구축하고 Active Directory, 공유 스토리지 및 가상 머신 고가용성 구성 실습
 - 🎯 팀 프로젝트 주요 기여
 
+### 🖥️ Infrastructure & Technical Practice
+### [Kubernetes 프로젝트]
+- 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/Kubernetes_Project.pdf)
+- ⚡ 사용 기술: Kubernetes, kubectl
+- 💡 설명: ETCD 백업 및 Cluster Upgrade, RBAC 기반 접근 권한 관리, Pod, Service, Ingress 구성, Persistent Volume(PV) 관리
+
+### [Linux Server 프로젝트]
+- 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/Linux_Project.pdf)
+- ⚡ 사용 기술: Linux, Rocky Linux, SSH, Apache, MariaDB
+- 💡 설명: 사용자 및 그룹 관리, LVM 및 디스크 쿼터 구성, SSH, DNS, Apache 서비스 설정, NFS, Samba, DHCP 및 MariaDB 구성
+
+### [Firewall 프로젝트]
+- 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/Firewall_Project.pdf)
+- ⚡ 사용 기술:Cisco ASA, ACL, NAT, PAT
+- 💡 설명: 방화벽 접근 제어 목록(ACL) 구성, NAT 및 PAT 설정, OSPF 및 EIGRP 라우팅 실습
+
+### [Network 프로젝트]
+- 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/Network_Project.pdf)
+- ⚡ 사용 기술: VLAN, STP, RIP, OSPF, EIGRP, VRRP
+- 💡 설명: VLAN 및 Trunk 구성, STP 및 Frame Relay 실습, 동적 라우팅 및 라우팅 재분배, NAT 및 VRRP 구성
 
 ---
 
