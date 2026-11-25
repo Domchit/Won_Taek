@@ -98,6 +98,8 @@
 - 💡 설명: VMware vSphere 기반 서버 가상화 환경을 구축하고 Active Directory, 공유 스토리지 및 가상 머신 고가용성 구성 실습
 - 🎯 팀 프로젝트 주요 기여
 
+---
+
 ### 🖥️ Infrastructure & Technical Practice
 ### [Kubernetes 프로젝트]
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/Kubernetes_Project.pdf)
