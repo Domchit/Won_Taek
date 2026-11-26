@@ -84,13 +84,19 @@
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/AWS-Web-Server_Project.pdf)
 - ⚡ 사용 기술: AWS (VPC, EC2, ALB, RDS, S3, CloudWatch, CloudFormation)
 - 💡 설명: AWS 환경에서 VPC 기반 네트워크와 웹 서비스 운영 인프라를 구성하고, 데이터베이스 및 스토리지, 모니터링 환경 구축 실습
-- 🎯 2인 프로젝트 주요 기여 
+- 🎯 2인 프로젝트 주요 기여
+  - 팀원과 함께 AWS 주요 서비스 및 인프라 구성 실습 진행
+  - AWS 콘솔 구성 화면 캡처 및 실습 과정 정리
+  - 실습 내용을 취합하고 발표자료(PPT) 제작
 
 ### [AWS VPC]
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/AWS_VPC_Project.pdf)
 - ⚡ 사용 기술: AWS (VPC, Subnet, IGW, NAT Gateway, Route Table, EC2)
 - 💡 설명: Public/Private Subnet을 분리한 네트워크 환경을 구성하고, Bastion Host를 통한 Private Subnet 접근 및 네트워크 통신 실습
-- 🎯 개인 프로젝트 주요 기여
+- 🎯 개인 프로젝트 주요 수행 내용
+  - VPC 및 Public/Private Subnet 구성
+  - IGW, NAT Gateway 및 라우팅 테이블 설정
+  - Bastion Host를 통한 Private Subnet 접근 환경 구성
 
 ### [Windows Server / vSphere 프로젝트]
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/Window_Server_Project.pdf)
