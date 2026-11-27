@@ -137,11 +137,11 @@
 
 ---
 
-### 📞 Contact
-- ✉️ Email: taek1528@naver.com
-
----
-
 ### 💼 Portfolio
 - <img src="https://skillicons.dev/icons?i=github" width="15" /> Github: [깃허브링크](https://github.com/Domchit/Won_Taek)
 - <img src="https://cdn.simpleicons.org/notion/555555" width="15" /> Notion: [노션링크](https://app.notion.com/p/AWS-Project-39eddad4965480c7912ee5ff58e36d92?source=copy_link)
+
+---
+
+### 📞 Contact
+- ✉️ Email: taek1528@naver.com
