@@ -77,8 +77,9 @@
 - ⚡ 사용 기술: Terraform, HCL, AWS, AWS CLI, Terraform Cloud, GitHub, Route 53
 - 💡 설명: Terraform의 정의부터 시작해서 작동 원리, 기본 개념, 구조를 파악
 - 🎯 팀 프로젝트 주요 기여 
-  - Terraform의 정의 및 기본 개념 정리
-  - AWS 리소스, 등 AWS 예시 파일 구조 파악 및 정리
+  - 기존 Terraform 코드 및 AWS 리소스 정의 파일 구조 분석
+  - Terraform 주요 개념과 실습 과정 정리
+  - 프로젝트 자료(PPT) 제작 참여
 
 ### [AWS Web Service 프로젝트]
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/AWS-Web-Server_Project.pdf)
@@ -87,7 +88,7 @@
 - 🎯 2인 프로젝트 주요 기여
   - 팀원과 함께 AWS 주요 서비스 및 인프라 구성 실습 진행
   - AWS 콘솔 구성 화면 캡처 및 실습 과정 정리
-  - 실습 내용을 취합하고 발표자료(PPT) 제작
+  - 실습 내용을 취합하고 자료(PPT) 제작
 
 ### [AWS VPC]
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/AWS_VPC_Project.pdf)
@@ -103,29 +104,36 @@
 - ⚡ 사용 기술: Windows Server, Active Directory, DNS, VMware ESXi, vCenter Server, vSphere HA, FT, DRS, iSCSI
 - 💡 설명: VMware vSphere 기반 서버 가상화 환경을 구축하고 Active Directory, 공유 스토리지 및 가상 머신 고가용성 구성 실습
 - 🎯 팀 프로젝트 주요 기여
+  - 팀원들과 Windows Server 및 VMware vSphere 구성 실습 참여
+  - 서버 가상화의 개념과 특징, 장단점 조사 및 정리
+  - 프로젝트 전반의 자료(PPT) 제작 담당
 
 ---
 
-### 🖥️ Infrastructure & Technical Practice
-### [Kubernetes 프로젝트]
-- 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/Kubernetes_Project.pdf)
-- ⚡ 사용 기술: Kubernetes, kubectl
-- 💡 설명: ETCD 백업 및 Cluster Upgrade, RBAC 기반 접근 권한 관리, Pod, Service, Ingress 구성, Persistent Volume(PV) 관리
+### 🖥️ Infrastructure & Technical Project
 
 ### [Linux Server 프로젝트]
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/Linux_Project.pdf)
 - ⚡ 사용 기술: Linux, Rocky Linux, SSH, Apache, MariaDB
 - 💡 설명: 사용자 및 그룹 관리, LVM 및 디스크 쿼터 구성, SSH, DNS, Apache 서비스 설정, NFS, Samba, DHCP 및 MariaDB 구성
+- 🎯 팀 프로젝트 주요 기여
+  - 팀원들의 Linux 서버 실습 과정 및 결과 취합·정리
+  - 실습 내용을 바탕으로 프로젝트 자료(PPT) 제작
 
 ### [Firewall 프로젝트]
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/Firewall_Project.pdf)
 - ⚡ 사용 기술:Cisco ASA, ACL, NAT, PAT
 - 💡 설명: 방화벽 접근 제어 목록(ACL) 구성, NAT 및 PAT 설정, OSPF 및 EIGRP 라우팅 실습
+  - 팀원들과 협력하여 네트워크 물리적·논리적 구성도 작성
+  - 팀원들의 장비 설정 과정과 결과를 취합하여 자료(PPT) 제작
 
 ### [Network 프로젝트]
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/Network_Project.pdf)
 - ⚡ 사용 기술: VLAN, STP, RIP, OSPF, EIGRP, VRRP
 - 💡 설명: VLAN 및 Trunk 구성, STP 및 Frame Relay 실습, 동적 라우팅 및 라우팅 재분배, NAT 및 VRRP 구성
+- 🎯 팀 프로젝트 주요 기여
+  - 라우터의 동적 라우팅 프로토콜 설정 실습 참여
+  - 라우팅 설정 후 서로 다른 네트워크 간 통신 테스트 진행
 
 ---
 
