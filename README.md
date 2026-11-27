@@ -64,7 +64,7 @@
 ---
 
 ### ☁️ Cloud Projects
-### [클라우드 서버 이중화 및 하이브리드 클라우드 구축] 
+#### [클라우드 서버 이중화 및 하이브리드 클라우드 구축] 
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/KDT_Duplexing-Cloud-Project.pdf)
 - ⚡ 사용 기술: AWS (EC2, EKS, ALB, NLB, IAM), Docker, kubectl, eksctl
 - 💡 설명: AWS EKS 기반 컨테이너 인프라를 구축하고 ALB/NLB 연동 및 Kubernetes 애플리케이션 배포를 통한 고가용성 환경 실습
@@ -72,16 +72,16 @@
   - AWS 인프라 구축 실습 진행 및 실습 과정 기록
   - 문제 해결 방안 도출
 
-### [Terraform 프로젝트]
+#### [Terraform 프로젝트]
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/Terraform_Project.pdf)
 - ⚡ 사용 기술: Terraform, HCL, AWS, AWS CLI, Terraform Cloud, GitHub, Route 53
-- 💡 설명: Terraform의 정의부터 시작해서 작동 원리, 기본 개념, 구조를 파악
+- 💡 설명: Terraform의 기본 개념과 코드 구조를 분석하고 AWS 인프라 자동화 방식을 학습
 - 🎯 팀 프로젝트 주요 기여 
   - 기존 Terraform 코드 및 AWS 리소스 정의 파일 구조 분석
   - Terraform 주요 개념과 실습 과정 정리
   - 프로젝트 자료(PPT) 제작 참여
 
-### [AWS Web Service 프로젝트]
+#### [AWS Web Service 프로젝트]
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/AWS-Web-Server_Project.pdf)
 - ⚡ 사용 기술: AWS (VPC, EC2, ALB, RDS, S3, CloudWatch, CloudFormation)
 - 💡 설명: AWS 환경에서 VPC 기반 네트워크와 웹 서비스 운영 인프라를 구성하고, 데이터베이스 및 스토리지, 모니터링 환경 구축 실습
@@ -90,7 +90,7 @@
   - AWS 콘솔 구성 화면 캡처 및 실습 과정 정리
   - 실습 내용을 취합하고 자료(PPT) 제작
 
-### [AWS VPC]
+#### [AWS VPC]
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/AWS_VPC_Project.pdf)
 - ⚡ 사용 기술: AWS (VPC, Subnet, IGW, NAT Gateway, Route Table, EC2)
 - 💡 설명: Public/Private Subnet을 분리한 네트워크 환경을 구성하고, Bastion Host를 통한 Private Subnet 접근 및 네트워크 통신 실습
@@ -99,7 +99,7 @@
   - IGW, NAT Gateway 및 라우팅 테이블 설정
   - Bastion Host를 통한 Private Subnet 접근 환경 구성
 
-### [Windows Server / vSphere 프로젝트]
+#### [Windows Server / vSphere 프로젝트]
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/Window_Server_Project.pdf)
 - ⚡ 사용 기술: Windows Server, Active Directory, DNS, VMware ESXi, vCenter Server, vSphere HA, FT, DRS, iSCSI
 - 💡 설명: VMware vSphere 기반 서버 가상화 환경을 구축하고 Active Directory, 공유 스토리지 및 가상 머신 고가용성 구성 실습
@@ -111,7 +111,7 @@
 ---
 
 ### 🖥️ Infrastructure & Technical Project
-### [Linux Server 프로젝트]
+#### [Linux Server 프로젝트]
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/Linux_Project.pdf)
 - ⚡ 사용 기술: Linux, Rocky Linux, LVM, SSH, DNS, DHCP, Apache, FTP, NFS, Samba, MariaDB
 - 💡 설명: 사용자 및 그룹 관리, LVM 및 디스크 쿼터 구성, SSH, DNS, Apache 서비스 설정, NFS, Samba, DHCP 및 MariaDB 구성
@@ -119,7 +119,7 @@
   - 팀원들의 Linux 서버 실습 과정 및 결과 취합·정리
   - 실습 내용을 바탕으로 프로젝트 자료(PPT) 제작
 
-### [Firewall 프로젝트]
+#### [Firewall 프로젝트]
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/Firewall_Project.pdf)
 - ⚡ 사용 기술: Cisco Switch, Router, ASA Firewall, ACL, NAT, PAT
 - 💡 설명: 방화벽 접근 제어 목록(ACL) 구성, NAT 및 PAT 설정, OSPF 및 EIGRP 라우팅 실습
@@ -127,7 +127,7 @@
   - 팀원들과 협력하여 네트워크 물리적·논리적 구성도 작성
   - 팀원들의 장비 설정 과정과 결과를 취합하여 자료(PPT) 제작
 
-### [Network 프로젝트]
+#### [Network 프로젝트]
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/Network_Project.pdf)
 - ⚡ 사용 기술: VLAN, STP, RIP, OSPF, EIGRP, VRRP
 - 💡 설명: VLAN 및 Trunk 구성, STP 및 Frame Relay 실습, 동적 라우팅 및 라우팅 재분배, NAT 및 VRRP 구성
