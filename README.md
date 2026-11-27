@@ -51,7 +51,7 @@
 
 - Rocky Linux
 ### 🏆 Certifications
-- **AWS Data Engineer - Associate (DEA-C01)**
+- **AWS Certified Data Engineer - Associate (DEA-C01)**
 - **네트워크관리사 2급**
 - **리눅스마스터 2급**
 - **ITQ 마스터(한글, 인터넷, 엑셀)**
@@ -113,7 +113,7 @@
 ### 🖥️ Infrastructure & Technical Project
 ### [Linux Server 프로젝트]
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/Linux_Project.pdf)
-- ⚡ 사용 기술: Linux, Rocky Linux, SSH, Apache, MariaDB
+- ⚡ 사용 기술: Linux, Rocky Linux, LVM, SSH, DNS, DHCP, Apache, FTP, NFS, Samba, MariaDB
 - 💡 설명: 사용자 및 그룹 관리, LVM 및 디스크 쿼터 구성, SSH, DNS, Apache 서비스 설정, NFS, Samba, DHCP 및 MariaDB 구성
 - 🎯 팀 프로젝트 주요 기여
   - 팀원들의 Linux 서버 실습 과정 및 결과 취합·정리
@@ -123,6 +123,7 @@
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/Firewall_Project.pdf)
 - ⚡ 사용 기술: Cisco Switch, Router, ASA Firewall, ACL, NAT, PAT
 - 💡 설명: 방화벽 접근 제어 목록(ACL) 구성, NAT 및 PAT 설정, OSPF 및 EIGRP 라우팅 실습
+- 🎯 팀 프로젝트 주요 기여
   - 팀원들과 협력하여 네트워크 물리적·논리적 구성도 작성
   - 팀원들의 장비 설정 과정과 결과를 취합하여 자료(PPT) 제작
 
