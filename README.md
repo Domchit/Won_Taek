@@ -122,7 +122,7 @@
 
 ### [Firewall 프로젝트]
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/Firewall_Project.pdf)
-- ⚡ 사용 기술:Cisco ASA, ACL, NAT, PAT
+- ⚡ 사용 기술: Cisco Switch, Router, ASA Firewall, ACL, NAT, PAT
 - 💡 설명: 방화벽 접근 제어 목록(ACL) 구성, NAT 및 PAT 설정, OSPF 및 EIGRP 라우팅 실습
   - 팀원들과 협력하여 네트워크 물리적·논리적 구성도 작성
   - 팀원들의 장비 설정 과정과 결과를 취합하여 자료(PPT) 제작
