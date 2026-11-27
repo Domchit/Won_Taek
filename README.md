@@ -63,7 +63,7 @@
 
 ---
 
-## ☁️ Cloud Projects
+### ☁️ Cloud Projects
 ### [클라우드 서버 이중화 및 하이브리드 클라우드 구축] 
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/KDT_Duplexing-Cloud-Project.pdf)
 - ⚡ 사용 기술: AWS (EC2, EKS, ALB, NLB, IAM), Docker, kubectl, eksctl
@@ -110,7 +110,7 @@
 
 ---
 
-## 🖥️ Infrastructure & Technical Project
+### 🖥️ Infrastructure & Technical Project
 ### [Linux Server 프로젝트]
 - 📄 문서: [프로젝트 보기](https://github.com/Domchit/Cloud-Project/blob/main/Linux_Project.pdf)
 - ⚡ 사용 기술: Linux, Rocky Linux, SSH, Apache, MariaDB
